@@ -1,1 +1,9 @@
 C:\Users\Andrew\Documents\GitHub\AHartwigAssignment2\AHartwigAssignment2\bin\Debug\AHartwigAssignment2.exe.config
+C:\Users\Andrew\Documents\GitHub\AHartwigAssignment2\AHartwigAssignment2\bin\Debug\AHartwigAssignment2.exe
+C:\Users\Andrew\Documents\GitHub\AHartwigAssignment2\AHartwigAssignment2\bin\Debug\AHartwigAssignment2.pdb
+C:\Users\Andrew\Documents\GitHub\AHartwigAssignment2\AHartwigAssignment2\obj\Debug\AHartwigAssignment2.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\AHartwigAssignment2\AHartwigAssignment2\obj\Debug\AHartwigAssignment2.Form1.resources
+C:\Users\Andrew\Documents\GitHub\AHartwigAssignment2\AHartwigAssignment2\obj\Debug\AHartwigAssignment2.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\AHartwigAssignment2\AHartwigAssignment2\obj\Debug\AHartwigAssignment2.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\AHartwigAssignment2\AHartwigAssignment2\obj\Debug\AHartwigAssignment2.exe
+C:\Users\Andrew\Documents\GitHub\AHartwigAssignment2\AHartwigAssignment2\obj\Debug\AHartwigAssignment2.pdb
