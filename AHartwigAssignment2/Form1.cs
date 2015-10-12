@@ -20,9 +20,11 @@ namespace AHartwigAssignment2
 {
     public partial class Form1 : Form
     {
+        private const int MAX_TILES = 9;
         PictureBox[] pictureBoxes;
         Bitmap x, o;
         bool gameOver = false;
+        int tileCount;
         bool secondPlayersTurn = false;
         int failCounter = 0;
 
@@ -60,6 +62,8 @@ namespace AHartwigAssignment2
                 pbBM,
                 pbBR
             };
+
+            startNewGame();
         }
 
         // Reset and start a new game.
@@ -72,6 +76,7 @@ namespace AHartwigAssignment2
             secondPlayersTurn = false;
             gameOver = false;
             failCounter = 0;
+            tileCount = 0;
         }
 
         // Exit app from exit tool strip.
@@ -84,6 +89,12 @@ namespace AHartwigAssignment2
         // instead it handles the end of the game itself.
         private void checkGameWin()
         {
+
+            if (++tileCount == MAX_TILES)
+            {
+                MessageBox.Show("Cats game!");
+                gameOver = true;
+            }
             // Loop through each possible win pattern.
             for (int i = 0; i < Winners.GetLength(0); i++)
             {
